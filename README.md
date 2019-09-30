@@ -25,3 +25,14 @@ docker run -p 8888:8888 \
 ```
 
 3. Abre el [*notebook*](http://127.0.0.1:8888/?token=fstrings)
+
+## Contacta conmigo
+
+Mis perfiles online están [**aquí**](https://klashxx.github.io/about), no te cortes ... :godmode:
+
+<h6 align="center">
+<a href="https://pycones19.sched.com/event/VdMR">
+  <img src="https://github.com/klashxx/fstrings-pycones2019/blob/master/logo_pycon_2019.png">
+</a></h6>
+<br>
+<h6 align="center">Made with :heart: in Almería, Spain.</h6>
