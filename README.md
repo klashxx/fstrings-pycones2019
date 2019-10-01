@@ -10,7 +10,7 @@ Precisamente de una de estas grandes genialidades nos ocupa en esta [*charla*]( 
 
 Sobre la base de un [*jupyter notebook*](https://mybinder.org/v2/gh/klashxx/fstrings-pycones2019/master?filepath=fstrings.ipynb), se enumeran las múltiples ventajas que nos aportan e intenta discernir los posibles *pitfalls*.
 
-## Instrucciones de ejecución
+## ¿Cómo se ejecuta?
 
 ### Cloud
 
@@ -24,6 +24,7 @@ Requisitos:
 
 - [Docker][docker-install]
 
+Intrucciones:
 
 1. Clona el repo:
 
