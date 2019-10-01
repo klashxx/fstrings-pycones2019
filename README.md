@@ -2,6 +2,8 @@
 
 #### PyConES 2019, Alicante
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 El universo Python es fantástico, está en continua expansión y su naturaleza abierta hace que se nutra de las mejores ideas con independencia de si estaban ya implementadas en otros lenguajes.
 
 Precisamente de una de estas grandes genialidades nos ocupa en esta [*charla*]( https://sched.co/VdMR): las *strings interpolation* traducido a Python como **F-strings**. Un componente core presente *a partir de la versión 3.6*, tan simple como potente y efectivo, sin duda, otro argumento para convencer a los rezagados de Python 2.
