@@ -8,13 +8,13 @@ El universo Python es fantástico, está en continua expansión y su naturaleza 
 
 Precisamente de una de estas grandes genialidades nos ocupa en esta [*charla*]( https://sched.co/VdMR): las *strings interpolation* traducido a Python como **F-strings**. Un componente core presente *a partir de la versión 3.6*, tan simple como potente y efectivo, sin duda, otro argumento para convencer a los rezagados de Python 2.
 
-Sobre la base de un [*jupyter notebook*](https://mybinder.org/v2/gh/klashxx/fstrings-pycones2019/master?filepath=fstrings.ipynb), se enumeran las múltiples ventajas que nos aportan e intenta discernir los posibles *pitfalls*.
+Sobre la base de un [*jupyter notebook*](https://mybinder.org/v2/gh/klashxx/fstrings-binder/master?filepath=fstrings.ipynb), se enumeran las múltiples ventajas que nos aportan e intenta discernir los posibles *pitfalls*.
 
-## ¿Cómo se ejecuta?
+## Ejecución
 
 ### Cloud
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/klashxx/fstrings-pycones2019/master?filepath=fstrings.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/klashxx/fstrings-binder/master?filepath=fstrings.ipynb)
 
 ### Local
 
@@ -35,11 +35,7 @@ git clone git@github.com:klashxx/fstrings-pycones2019.git
 2. Baja y ejecuta la imagen:
 
 ```bash
-docker run -p 8888:8888 \
-           --name jupyter \
-           --env JUPYTER_TOKEN=fstrings \
-           --volume $PWD/fstrings-pycones2019:/home/jovyan \
-           jupyter/minimal-notebook:latest
+cd fstrings-pycones2019 && sh ./install.sh
 ```
 
 3. Abre el [*notebook*](http://127.0.0.1:8888/?token=fstrings)
