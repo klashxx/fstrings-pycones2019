@@ -44,7 +44,7 @@ docker run -p 8888:8888 \
 
 3. Abre el [*notebook*](http://127.0.0.1:8888/?token=fstrings)
 
-## Contacta conmigo
+## Contacta
 
 Mis perfiles online están [**aquí**](https://klashxx.github.io/about), no te cortes ... :godmode:
 
