@@ -18,13 +18,13 @@ Sobre la base de un [*jupyter notebook*](https://mybinder.org/v2/gh/klashxx/fstr
 
 ### Local
 
-Requisitos:
+*Requisitos*
 
-- Cliente [git][git-download]
+- Cliente [`git`][git-download]
 
-- [Docker][docker-install]
+- [`Docker`][docker-install]
 
-**Instrucciones**:
+*Instrucciones*
 
 1. Clona el repo:
 
