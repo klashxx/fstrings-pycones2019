@@ -24,7 +24,7 @@ Requisitos:
 
 - [Docker][docker-install]
 
-Intrucciones:
+**Instrucciones**:
 
 1. Clona el repo:
 
