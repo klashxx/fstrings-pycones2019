@@ -1,12 +1,27 @@
-# fstrings-pycones2019
+# :snake: F-strings: A format system to rule them all
 
-Fstrings PyConES 2019 Talk
+#### PyConES 2019, Alicante
 
-## Cloud
+El universo Python es fantástico, está en continua expansión y su naturaleza abierta hace que se nutra de las mejores ideas con independencia de si estaban ya implementadas en otros lenguajes.
+
+Precisamente de una de estas grandes genialidades nos ocupa en esta [*charla*]( https://sched.co/VdMR): las *strings interpolation* traducido a Python como **F-strings**. Un componente core presente *a partir de la versión 3.6*, tan simple como potente y efectivo, sin duda, otro argumento para convencer a los rezagados de Python 2.
+
+Sobre la base de un [*jupyter notebook*](https://mybinder.org/v2/gh/klashxx/fstrings-pycones2019/master?filepath=fstrings.ipynb), se enumeran las múltiples ventajas que nos aportan e intenta discernir los posibles *pitfalls*.
+
+## Instrucciones de ejecución
+
+### Cloud
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/klashxx/fstrings-pycones2019/master?filepath=fstrings.ipynb)
 
-## Local
+### Local
+
+Requisitos:
+
+- Cliente [git][git-download]
+
+- [Docker][docker-install]
+
 
 1. Clona el repo:
 
@@ -36,3 +51,6 @@ Mis perfiles online están [**aquí**](https://klashxx.github.io/about), no te c
 </a></h6>
 <br>
 <h6 align="center">Made with :heart: in Almería, Spain.</h6>
+
+[git-download]: https://git-scm.com/downloads "git - Descarga"
+[docker-install]: https://docs.docker.com/engine/installation/ "Docker - Instalación"
