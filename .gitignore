@@ -1,6 +1,9 @@
 # jupyter
 nbserver*
 notebook_cookie*
+.ipython/
+.jupyter/
+.local/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
