@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-docker build -t jupyter-rise . &&
+docker build -t jupyter-fstrings . &&
 docker run -p 8888:8888 \
-       --name jupyter-rise \
+       --name jupyter-fstrings \
        --env JUPYTER_TOKEN=fstrings \
        --volume $PWD:/home/jovyan \
-       jupyter-rise
+       jupyter-fstrings

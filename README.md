@@ -40,6 +40,14 @@ cd fstrings-pycones2019 && sh ./install.sh
 
 3. Abre el [*notebook*](http://127.0.0.1:8888/?token=fstrings)
 
+#### *Docker Cheat Sheet*
+
+- Stop container: `docker container stop jupyter-fstrings`
+
+- Start container: `docker container start jupyter-fstrings`
+
+- Logs: `docker logs -f jupyter-fstrings`
+
 ## Contacta
 
 Mis perfiles online están [**aquí**](https://klashxx.github.io/about), no te cortes ... :godmode:
