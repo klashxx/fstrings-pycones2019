@@ -14,7 +14,13 @@ Sobre la base de un [*jupyter notebook*](https://mybinder.org/v2/gh/klashxx/fstr
 
 ### Cloud
 
+#### Español
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/klashxx/fstrings-binder/master?filepath=fstrings.ipynb)
+
+#### English
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/klashxx/fstrings-binder/master?filepath=fstrings_EN.ipynb)
 
 ### Local
 
